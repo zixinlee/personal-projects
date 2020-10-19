@@ -1,4 +1,4 @@
-# Uncovering insights for CRM campaign angles
+# Generating insights for CRM campaign angles
 
 _Work in progress_
 
