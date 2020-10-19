@@ -1,6 +1,7 @@
 # Generating insights for CRM campaign angles
 
-_Work in progress_
+View notebook on Nbviewer (_Work in progress_):
+- [Part 1: Data cleaning and EDA](https://nbviewer.jupyter.org/github/zixinlee/personal-projects/blob/master/fashion-ecommerce-sales-analysis/1-data-cleaning-EDA.ipynb)
 
 ## Problem statement
 Company X is a fashion e-commerce company. The purpose of this case study is to analyse the historical sales data of Company X and help the Customer Relationship Management (CRM) team to generate insights that can be used to generate new campaign angles for customer re-engagement campaigns.
